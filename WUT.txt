@@ -15,4 +15,4 @@ Step 2: Login and Password
 Step 3: Get cookies from the browser of the user
 Step 4: Go to http://tns.uswut.com/uiArp06Action/searchBookingStatusList.do?bkgNo=RTDDG&acssHis=USTIW,0245APP,0346047,ADAS API 
 Step 5: Insert cookies in the header of the request
-Step 6: Get data of the Booking No. 66612577 & YCH24110365 
+Step 6: Get data of the Booking No. 66612577 & YCH24110365 and extract the vessel information table
