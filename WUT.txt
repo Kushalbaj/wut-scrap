@@ -1,0 +1,18 @@
+Step 1: Go to http://tns.uswut.com/main/index.do
+Step 2: Login and Password
+			Login: ADAS
+			Password: adaexpress1
+Step 3: Go to Export Inquiry
+Step 4: Insert Booking no. 66612577 & YCH24110365
+Step 5: Click submit button
+
+
+
+Step 1: Go to http://tns.uswut.com/main/index.do
+Step 2: Login and Password
+			Login: ADAS
+			Password: adaexpress1
+Step 3: Get cookies from the browser of the user
+Step 4: Go to http://tns.uswut.com/uiArp06Action/searchBookingStatusList.do?bkgNo=RTDDG&acssHis=USTIW,0245APP,0346047,ADAS API 
+Step 5: Insert cookies in the header of the request
+Step 6: Get data of the Booking No. 66612577 & YCH24110365 
